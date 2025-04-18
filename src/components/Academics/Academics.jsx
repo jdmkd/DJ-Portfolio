@@ -15,7 +15,7 @@ import {
 import Generating from "../widgets/Generating";
 import Image from "next/image";
 import { ChevronLeftIcon, ChevronRightIcon } from '@heroicons/react/24/solid'
-import DownloadPdf from "../DownloadPdf/Downloadpdf";
+import DownloadPdf from "../DownloadPdf/DownloadPdf";
 
 const Academics = () => {
   return (
