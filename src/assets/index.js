@@ -75,6 +75,7 @@ import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
+import linkedIn from "./socials/linkedIn.svg"
 import ooorganize from "./x/ooorganize.svg";
 import x1 from "./x/1872374.svg";
 import x2 from './x/35588.svg';
@@ -93,7 +94,6 @@ import bootstrapIcon from "./skill-icons/bootstrap.png"
 import githubIcon from "./skill-icons/github.png"
 import graphqlIcon from "./skill-icons/graphql.png"
 import webpackIcon from "./skill-icons/webpack.png"
-
   
 export {
   spidersWeb,
@@ -164,6 +164,7 @@ export {
   facebook,
   instagram,
   telegram,
+  linkedIn,
   twitter,
   ooorganize,
   x1,

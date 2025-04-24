@@ -61,11 +61,14 @@ const Hero = () => {
           <ScrollParallax>
             <AnimatedText text="Hi there I'm DJ" />
             <AnimatedText text="Full-stack Developer" />
-            {/* <HoverUnderlineEffect
-              text="Welcome to my portfolio showcasing a culmination of my expertise in full-stack web development."
-            /> */}
-            <HoverWordFollowEffect text="Welcome to my portfolio showcasing a culmination of my expertise in full-stack web development." />
+
+            {/* <HoverWordFollowEffect text="Welcome to my portfolio showcasing a culmination of my expertise in full-stack web development." /> */}
           </ScrollParallax>
+          <h1 className="text-center flex flex-wrap justify-center gap-x-2 leading-relaxed h5 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-10">
+              <span className="inline-block cursor-pointer">
+              Welcome to my portfolio showcasing a culmination of my expertise in full-stack web development.
+              </span>
+          </h1>
         </div>
         
       </div>

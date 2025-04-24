@@ -55,6 +55,8 @@ import {
   graphqlIcon,
   webpackIcon,
 
+  linkedIn
+
 } from "../assets";
 
 export const navigation = [
@@ -188,7 +190,7 @@ export const socials = [
   {
     id: "2",
     title: "LinkedIn",
-    iconUrl: githubIcon,
+    iconUrl: linkedIn,
     url: "https://www.linkedin.com/in/dj-kumar-9a2a2b236",
   }
   
